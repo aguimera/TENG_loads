@@ -1,0 +1,407 @@
+(footprint "V23079A1001B301"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "V23079 (Monostable)")
+	(tags "Relay or Contactor")
+	(property "Reference" "REF**"
+		(at 0 0.3 0)
+		(layer "F.SilkS")
+		(uuid "2815faa1-3552-455d-a9ac-1ffd16b495b1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "V23079C1103B301"
+		(at 0 0.3 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "285ac258-b51d-48a1-9886-744a75b6bc02")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "V23079A1001B301"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4028831-6d01-4b7f-b1af-dbdf59a2509b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98002%7FZ5%7Fpdf%7FEnglish%7FENG_SS_108-98002_Z5.pdf%7F4-1393788-8"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "acb5f9de-cd19-42e1-9918-e247ce24fe30")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Relay,signal,PCB,DPDT,2A,12Vdc,latching"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92f12fff-ec9d-4ad9-a973-ca46d545f2ea")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "9"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc89a373-c13b-4b0d-8524-8eb833f0ffcc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TE Connectivity"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a882135-f975-4dea-b1da-cb161dc23532")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "V23079C1103B301"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3296d3d-bae4-4d29-adbc-507f6683590c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "655-V23079C1103B301"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c57c1f3b-a246-4863-9f9e-6f452cc5fea4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/V23079C1103B301?qs=CNrsY6Bml5mJjfpRR1yORw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a266d4c5-133e-4556-9f94-8c0da969faf9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "V23079C1103B301"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba5371ed-b55a-4fcb-ba87-3abfa1c42a64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/v23079c1103b301/te-connectivity?region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65b93754-329d-4770-892b-6800bd4acdda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7.25 -3.6)
+		(end 7.25 -3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "663f5e0b-e322-4e3b-86e3-b9f61322d542")
+	)
+	(fp_line
+		(start -7.25 -1.5)
+		(end -7.25 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d351c35a-1142-4539-8931-60681064ba6a")
+	)
+	(fp_line
+		(start -7.25 3.6)
+		(end 7.25 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfb71eec-f8bb-4afc-a5bb-0f870a7a0758")
+	)
+	(fp_line
+		(start -6.4 4.1)
+		(end -6.4 4.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd90d124-1512-48bb-bc22-ce9cb17c96b6")
+	)
+	(fp_line
+		(start -6.2 4.1)
+		(end -6.2 4.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0ea4b101-d7f9-425c-8fef-dc3a81fef85f")
+	)
+	(fp_line
+		(start 7.25 -3.6)
+		(end 7.25 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "418ad00b-6955-40b9-9235-1bd322186890")
+	)
+	(fp_arc
+		(start -6.4 4.1)
+		(mid -6.3 4)
+		(end -6.2 4.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4562f0ac-6188-42aa-bef1-ffd894d65d9b")
+	)
+	(fp_arc
+		(start -6.2 4.1)
+		(mid -6.3 4.2)
+		(end -6.4 4.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "195c11cb-7408-4824-9c2b-923ae57ee66e")
+	)
+	(fp_line
+		(start -8.25 -4.6)
+		(end 8.25 -4.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "839167dd-5baf-47c1-afa0-a5ed950ab131")
+	)
+	(fp_line
+		(start -8.25 5.2)
+		(end -8.25 -4.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "94f924f2-287f-4ba1-9f5f-c229f6d50bb7")
+	)
+	(fp_line
+		(start 8.25 -4.6)
+		(end 8.25 5.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ee31b3b-f4a3-44e9-a103-c83dc1d7d62b")
+	)
+	(fp_line
+		(start 8.25 5.2)
+		(end -8.25 5.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c9b7989b-7a97-4b45-86b1-eb736e6bae33")
+	)
+	(fp_line
+		(start -7.25 -3.6)
+		(end 7.25 -3.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b28e9ae6-69ac-4fb7-9a60-4e22d381e4f8")
+	)
+	(fp_line
+		(start -7.25 3.6)
+		(end -7.25 -3.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0fd64f1f-652d-42e1-a3c3-d1482b93f180")
+	)
+	(fp_line
+		(start 7.25 -3.6)
+		(end 7.25 3.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8cc516bb-46ec-4089-b499-b0d7e8d86c8f")
+	)
+	(fp_line
+		(start 7.25 3.6)
+		(end -7.25 3.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d73ae393-9883-4af7-8398-d9e3b91920f9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0.3 0)
+		(layer "F.Fab")
+		(uuid "63414d63-7d83-46e7-badf-0a5550e8d9de")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -6.35 2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "172b6eda-5011-4b6a-88da-4bc12974f2b6")
+	)
+	(pad "3" thru_hole circle
+		(at -1.27 2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1b7550af-9d55-4bdd-a4ed-1772b2942d9a")
+	)
+	(pad "4" thru_hole circle
+		(at 1.27 2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "92efca14-a757-437c-8400-36eeab7d2ac4")
+	)
+	(pad "5" thru_hole circle
+		(at 3.81 2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c7316518-0b8b-4fae-857d-484faa8c4c08")
+	)
+	(pad "8" thru_hole circle
+		(at 3.81 -2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b51f97b0-a23d-4a0b-8662-62c05e374d33")
+	)
+	(pad "9" thru_hole circle
+		(at 1.27 -2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aceaa338-3e4e-45b1-ba42-e80064c8dd09")
+	)
+	(pad "10" thru_hole circle
+		(at -1.27 -2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0282ef64-20f8-41c1-945d-464e783bb998")
+	)
+	(pad "12" thru_hole circle
+		(at -6.35 -2.54)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d09a91b0-1acb-490d-8e5c-8fb46f95fd08")
+	)
+	(model "C:\\Users\\Felipe\\OneDrive\\APPS\\KICAD\\lib\\SamacSys_Parts.3dshapes\\V23079C1103B301.stp"
+		(offset
+			(xyz -0.03999999851 -0.02999999888 1.639999961)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 -180 -180)
+		)
+	)
+)

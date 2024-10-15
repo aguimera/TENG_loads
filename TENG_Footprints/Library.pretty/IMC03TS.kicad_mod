@@ -1,0 +1,373 @@
+(footprint "IMC03TS"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "IMC03TS")
+	(tags "Relay or Contactor")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "65c979fa-a65f-4e8c-a4dd-4b71bd1f8c08")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "IMC03TS"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "fb56d281-abed-449e-86bb-d9f92252a822")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "IMC03TS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "979197d6-ecd9-4251-942c-6668db630c28")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/IMC03TS.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92d0061a-2866-4766-b60f-ab46ca2f4b34")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "TE CONNECTIVITY - IMC03TS - RELAY, SIGNAL, SPDT, 30VDC, 2A"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92bd1884-da0d-4163-9532-eab78c14d5d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e0d2473-aa69-4d80-9728-2b9c7cf1b492")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TE Connectivity"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eaefb86c-8351-434b-96b4-d577bf5d1c5f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "IMC03TS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26c4bdb0-f397-423b-81f2-58f305f98cdc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "655-IMC03TS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff7eda0d-d488-4bfa-b3f9-b68cbfe88bbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/IMC03TS?qs=cjQ5B1jJSzR1ZiTl5Tzf3w%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd06b2dc-a008-4cc4-90f9-181ad82a3911")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "IMC03TS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d725bfc-f2a6-4c73-aa4a-d45ea31b3f2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/imc03ts/te-connectivity?region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37374bdb-e7c3-4ad0-9a4d-59ad818839fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5 -3.23)
+		(end -5 2.77)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7ef02f6c-6495-426e-b55d-17734ab2b8e0")
+	)
+	(fp_line
+		(start -3.9 3.27)
+		(end -3.9 3.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2196e036-0c4f-413e-9e93-bfb3d13f3c8e")
+	)
+	(fp_line
+		(start -3.7 3.27)
+		(end -3.7 3.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "282429c6-be21-4451-919c-9b96cbd85f12")
+	)
+	(fp_line
+		(start 5 -3.23)
+		(end 5 2.77)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5239c17-0f65-419b-bf98-d1d27e8f99c7")
+	)
+	(fp_line
+		(start 5 2.77)
+		(end 2.62 2.77)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "015cca00-156d-48dd-b8f7-5b4039a0c0e7")
+	)
+	(fp_arc
+		(start -3.9 3.27)
+		(mid -3.8 3.17)
+		(end -3.7 3.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fdb31e74-862a-41c7-920b-2e2a903e76c1")
+	)
+	(fp_arc
+		(start -3.7 3.27)
+		(mid -3.8 3.37)
+		(end -3.9 3.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "42228323-83ec-429d-a891-f2f2014ee6db")
+	)
+	(fp_line
+		(start -6 -4.37)
+		(end 6 -4.37)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b9cd3d82-f7f6-4afb-ac0b-dd96089527a7")
+	)
+	(fp_line
+		(start -6 4.37)
+		(end -6 -4.37)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "24553312-fe21-4622-a787-ea4c43a6b51d")
+	)
+	(fp_line
+		(start 6 -4.37)
+		(end 6 4.37)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d368c930-0fcd-424e-90ab-e28d59062dd5")
+	)
+	(fp_line
+		(start 6 4.37)
+		(end -6 4.37)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c1e15352-223a-4ebb-beec-51188dc278bb")
+	)
+	(fp_line
+		(start -5 -3.23)
+		(end 5 -3.23)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8b2d371a-8a3e-4550-bd91-6674b81a0be7")
+	)
+	(fp_line
+		(start -5 2.77)
+		(end -5 -3.23)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7c2afa24-64ae-49bb-906f-0d3128bf0bc8")
+	)
+	(fp_line
+		(start 5 -3.23)
+		(end 5 2.77)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ad89a48-5651-4e0e-8831-94da7311ee1e")
+	)
+	(fp_line
+		(start 5 2.77)
+		(end -5 2.77)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a6b89775-72e8-4c51-9249-d49ae9b10292")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5e0b71a8-b6d2-4ca6-9985-243d87996baf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.8 2.31)
+		(size 1.2 1.2)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6510be0e-c0ea-457c-9b4f-159adbd29776")
+	)
+	(pad "3" thru_hole circle
+		(at 1.6 2.31)
+		(size 1.2 1.2)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "077bea92-420a-48b7-8aa2-4cd30229067a")
+	)
+	(pad "5" thru_hole circle
+		(at 3.8 -2.77)
+		(size 1.2 1.2)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "637bfca7-e769-45eb-9c93-a9e52d7a5aef")
+	)
+	(pad "7" thru_hole circle
+		(at -0.6 -2.77)
+		(size 1.2 1.2)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b83bf1da-6b32-40e5-ac86-a76ab93a42c0")
+	)
+	(pad "8" thru_hole circle
+		(at -3.8 -2.77)
+		(size 1.2 1.2)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b5476bb3-5fd1-42d3-bf6c-5fd7479d0e81")
+	)
+	(model "C:\\Users\\Felipe\\OneDrive\\APPS\\KICAD\\lib\\SamacSys_Parts.3dshapes\\IMC03TS.stp"
+		(offset
+			(xyz -0.02999999888 0.2599999866 3.309999893)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 -180 -180)
+		)
+	)
+)

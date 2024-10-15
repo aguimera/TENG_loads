@@ -1,0 +1,417 @@
+(footprint "SOIC127P600X175-16N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "SOIC-16 CASE751B-05")
+	(tags "Integrated Circuit")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "031426fd-8b7f-4f69-974b-b54714e67191")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "MC74VHC138DR2G"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7b56debd-25ae-4631-9edc-e1f2aafe3648")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "SOIC127P600X175-16N"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8af6009a-67b8-454f-8cd2-b6d659a715a0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.onsemi.com/pub/Collateral/MC74VHC138-D.PDF"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db2230e6-3d39-4de7-ae0f-955528bdf04f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb56228a-765c-4700-a246-d87a124be983")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.75"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36327c9a-ffa3-4c48-8795-36776b7ab187")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "onsemi"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a14dfe2-3e88-4236-b942-a737d7c9f8f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "MC74VHC138DR2G"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "532cc662-3d17-4653-9494-3bfd471b3b51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "863-MC74VHC138DR2G"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd7b5d2b-3378-4599-aa95-5a780aa85e5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MC74VHC138DR2G?qs=YOLdObVcOZliRjfeSc5aqQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d963e487-e413-4416-968c-bdf7def7c866")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "MC74VHC138DR2G"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "681152b3-6334-40e6-b9c3-436e3ac155f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/mc74vhc138dr2g/on-semiconductor?region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "241f2c51-8b84-4e3c-a2a2-4f6f27fc9c61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.5 -5.12)
+		(end -1.95 -5.12)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dbb28594-15d1-4611-886d-b51017723abc")
+	)
+	(fp_line
+		(start -1.6 -4.95)
+		(end 1.6 -4.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c602a198-4875-4c8f-94cf-4e5ff5635ae3")
+	)
+	(fp_line
+		(start -1.6 4.95)
+		(end -1.6 -4.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "093edec1-ab7f-439d-980f-99457ca85a2e")
+	)
+	(fp_line
+		(start 1.6 -4.95)
+		(end 1.6 4.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "41b9d4ef-c102-4246-b707-ebc7ad15cbf5")
+	)
+	(fp_line
+		(start 1.6 4.95)
+		(end -1.6 4.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3bab087-c40d-499d-ae74-1525e8af2d18")
+	)
+	(fp_line
+		(start -3.75 -5.25)
+		(end 3.75 -5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9c067f2a-2ff9-417f-a75a-d8162cbaeef4")
+	)
+	(fp_line
+		(start -3.75 5.25)
+		(end -3.75 -5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "810125ca-796f-4bfe-9ce9-5f5a29e8ac03")
+	)
+	(fp_line
+		(start 3.75 -5.25)
+		(end 3.75 5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3873341c-8847-4d67-96f2-702bc27d5194")
+	)
+	(fp_line
+		(start 3.75 5.25)
+		(end -3.75 5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "29b75d18-4f42-45ac-ac15-09a97681cbda")
+	)
+	(fp_line
+		(start -1.95 -4.95)
+		(end 1.95 -4.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a315b682-b80c-48c6-be5f-fd910aa5ef3b")
+	)
+	(fp_line
+		(start -1.95 -3.68)
+		(end -0.68 -4.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8555d77e-3d4f-4e39-9e6a-cdb983b8d40d")
+	)
+	(fp_line
+		(start -1.95 4.95)
+		(end -1.95 -4.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e193acfb-5611-492f-a077-8f6542a13c59")
+	)
+	(fp_line
+		(start 1.95 -4.95)
+		(end 1.95 4.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "edc1a533-8aa1-4282-8f98-6608dacfed36")
+	)
+	(fp_line
+		(start 1.95 4.95)
+		(end -1.95 4.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e7053cc7-386b-4aaf-a172-c10f023baf66")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "5af04fe3-0549-44ce-a5ff-803adc430b3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.725 -4.445 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "684c9499-fc5e-4686-ac47-824619bb7f62")
+	)
+	(pad "2" smd rect
+		(at -2.725 -3.175 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "93674c83-80f9-426e-9faa-1c1ce30871eb")
+	)
+	(pad "3" smd rect
+		(at -2.725 -1.905 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1ca3b36a-ff94-46a0-bde3-b44865dd2166")
+	)
+	(pad "4" smd rect
+		(at -2.725 -0.635 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7f35f9c8-eac2-4f92-b197-2b712dbc8348")
+	)
+	(pad "5" smd rect
+		(at -2.725 0.635 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2f4e0e74-f771-49c5-ab4b-f1f50d1c0adb")
+	)
+	(pad "6" smd rect
+		(at -2.725 1.905 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0317ba80-32b8-416a-9627-9df45418f6bb")
+	)
+	(pad "7" smd rect
+		(at -2.725 3.175 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "97d56f0c-8a5a-4aa4-8d5c-f9615f3211fa")
+	)
+	(pad "8" smd rect
+		(at -2.725 4.445 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "894dad0a-7724-4479-8794-89718531ce43")
+	)
+	(pad "9" smd rect
+		(at 2.725 4.445 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "014b6a3c-003d-418f-82e6-d7cf5d769e59")
+	)
+	(pad "10" smd rect
+		(at 2.725 3.175 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "626817aa-9d44-4b98-b99b-bf6c583ea04a")
+	)
+	(pad "11" smd rect
+		(at 2.725 1.905 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "031cf0dc-ee3f-4568-aa64-4106f402a822")
+	)
+	(pad "12" smd rect
+		(at 2.725 0.635 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fdf59879-f2d7-4e14-8bd1-9023ac44dd18")
+	)
+	(pad "13" smd rect
+		(at 2.725 -0.635 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6d874678-e700-4946-9ce8-7646625d202a")
+	)
+	(pad "14" smd rect
+		(at 2.725 -1.905 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "092992f8-d848-4f54-ba12-5134461a2ae1")
+	)
+	(pad "15" smd rect
+		(at 2.725 -3.175 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "de1fe835-9e97-476d-805c-a9690c4fc454")
+	)
+	(pad "16" smd rect
+		(at 2.725 -4.445 90)
+		(size 0.65 1.55)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0b399106-2fc1-433f-8d7a-1702ea78f358")
+	)
+	(model "C:\\Users\\Felipe\\OneDrive\\APPS\\KICAD\\lib\\SamacSys_Parts.3dshapes\\MC74VHC138DR2G.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
