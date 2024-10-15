@@ -2899,7 +2899,7 @@
 		)
 		(uuid "d95d3934-d057-4716-abd8-abc274ed746a")
 	)
-	(label "Ra_0"
+	(label "Ra_7"
 		(at 265.43 124.46 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3704,7 +3704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 58.42 207.95 0)
 			(effects
 				(font
@@ -3846,7 +3846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 115.57 171.12 0)
 			(effects
 				(font
@@ -4069,7 +4069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 118.11 280.34 0)
 			(effects
 				(font
@@ -4226,7 +4226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 255.27 214.3 0)
 			(effects
 				(font
@@ -4515,7 +4515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 196.85 158.42 0)
 			(effects
 				(font
@@ -4789,7 +4789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 198.12 214.3 0)
 			(effects
 				(font
@@ -4990,7 +4990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 6"
 			(at 252.222 72.644 0)
 			(effects
 				(font
@@ -5062,7 +5062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 2"
 			(at 112.522 105.664 0)
 			(effects
 				(font
@@ -5339,7 +5339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 96.52 115.24 0)
 			(effects
 				(font
@@ -5487,7 +5487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 115.57 243.51 0)
 			(effects
 				(font
@@ -5710,7 +5710,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 96.52 154.61 0)
 			(effects
 				(font
@@ -6122,7 +6122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 58.42 131.75 0)
 			(effects
 				(font
@@ -6323,7 +6323,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 4"
 			(at 115.062 178.054 0)
 			(effects
 				(font
@@ -6468,7 +6468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 196.85 197.79 0)
 			(effects
 				(font
@@ -6610,7 +6610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 57.15 227 0)
 			(effects
 				(font
@@ -6818,7 +6818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 257.81 134.29 0)
 			(effects
 				(font
@@ -6975,7 +6975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 198.12 174.93 0)
 			(effects
 				(font
@@ -7117,7 +7117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 60.96 280.34 0)
 			(effects
 				(font
@@ -7259,7 +7259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 200.66 134.29 0)
 			(effects
 				(font
@@ -7401,7 +7401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 96.52 191.44 0)
 			(effects
 				(font
@@ -7549,7 +7549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 255.27 174.93 0)
 			(effects
 				(font
@@ -7838,7 +7838,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 58.42 171.12 0)
 			(effects
 				(font
@@ -7973,7 +7973,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 7"
 			(at 252.222 112.014 0)
 			(effects
 				(font
@@ -8118,7 +8118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 115.57 207.95 0)
 			(effects
 				(font
@@ -8341,7 +8341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 96.52 227 0)
 			(effects
 				(font
@@ -8555,7 +8555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 238.76 117.78 0)
 			(effects
 				(font
@@ -8703,7 +8703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 99.06 263.83 0)
 			(effects
 				(font
@@ -8910,7 +8910,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 5"
 			(at 254.762 32.004 0)
 			(effects
 				(font
@@ -8989,7 +8989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 58.42 243.51 0)
 			(effects
 				(font
@@ -9131,7 +9131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 199.39 117.78 0)
 			(effects
 				(font
@@ -9273,7 +9273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 236.22 158.42 0)
 			(effects
 				(font
@@ -9421,7 +9421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IMC03TS"
+		(property "Footprint" "Library:IMC03TS"
 			(at 236.22 197.79 0)
 			(effects
 				(font
@@ -9569,7 +9569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 57.15 191.44 0)
 			(effects
 				(font
@@ -9704,7 +9704,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 0"
 			(at 112.522 29.464 0)
 			(effects
 				(font
@@ -9849,7 +9849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 57.15 115.24 0)
 			(effects
 				(font
@@ -9991,7 +9991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "V23079A1001B301"
+		(property "Footprint" "Library:V23079A1001B301"
 			(at 115.57 131.75 0)
 			(effects
 				(font
@@ -10141,7 +10141,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 3"
 			(at 112.522 141.224 0)
 			(effects
 				(font
@@ -10220,7 +10220,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 59.69 263.83 0)
 			(effects
 				(font
@@ -10362,7 +10362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT96P240X110-3N"
+		(property "Footprint" "Library:SOT96P240X110-3N"
 			(at 57.15 154.61 0)
 			(effects
 				(font
@@ -10695,7 +10695,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Load 1"
 			(at 112.522 68.834 0)
 			(effects
 				(font
