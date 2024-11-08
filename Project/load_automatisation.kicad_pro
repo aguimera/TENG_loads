@@ -568,13 +568,13 @@
           "group_by": false,
           "label": "Mouser Part Number",
           "name": "Mouser Part Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Mouser Price/Stock",
           "name": "Mouser Price/Stock",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -634,16 +634,28 @@
       "Raíz"
     ],
     [
-      "223c6bc2-8928-49f0-b5b1-d53627ddd5ce",
-      "Loads"
+      "cd2c16fc-4c07-418d-95cf-953fdf96275e",
+      "1_Loads"
     ],
     [
-      "99d70ed4-50d4-4259-be2e-c0a3082abd07",
-      "Loads1"
+      "0a839606-ddf5-447d-8d95-17645da015c6",
+      "Loads-1"
     ],
     [
-      "f76751a4-d8c8-4d64-95c2-f637e8a5d251",
-      "Loads2"
+      "ef79ebb0-ef5c-46d8-834a-7c3821731feb",
+      "2_Loads"
+    ],
+    [
+      "0c743fb0-a50d-4bd6-9450-0e0d97e47d9a",
+      "Loads-2"
+    ],
+    [
+      "9a4a53da-5e5a-4867-b392-518dc37283c5",
+      "3_Loads"
+    ],
+    [
+      "ac2d2ff3-bffa-4c87-aa18-e5cd5cb143e2",
+      "Loads-3"
     ]
   ],
   "text_variables": {}
