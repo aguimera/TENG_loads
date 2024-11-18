@@ -15,7 +15,7 @@
         "copper_text_upright": false,
         "courtyard_line_width": 0.05,
         "dimension_precision": 4,
-        "dimension_units": 3,
+        "dimension_units": 1,
         "dimensions": {
           "arrow_length": 1270000,
           "extension_offset": 500000,
@@ -452,7 +452,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.6,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -462,8 +462,8 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.7,
-        "via_diameter": 0.6,
+        "track_width": 0.6,
+        "via_diameter": 0.4,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -645,7 +645,7 @@
   "sheets": [
     [
       "e193aeee-7d8e-4a61-b3f1-51249c7839f9",
-      "Raíz"
+      "Arrel"
     ],
     [
       "cd2c16fc-4c07-418d-95cf-953fdf96275e",
