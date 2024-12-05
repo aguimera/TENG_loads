@@ -3893,16 +3893,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 60.96) (xy 35.56 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0e6fd15-b985-4a49-aee6-d1ba0cf0db02")
-	)
-	(wire
-		(pts
 			(xy 226.06 81.28) (xy 226.06 78.74)
 		)
 		(stroke
@@ -4310,6 +4300,16 @@
 			(type default)
 		)
 		(uuid "f6e37b72-dfd0-4092-bfdc-e822b421d58c")
+	)
+	(wire
+		(pts
+			(xy 35.56 60.96) (xy 35.56 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8b3d7ee-b806-44ab-9f2c-ae0d832308a2")
 	)
 	(wire
 		(pts
@@ -5433,7 +5433,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 39.37 63.5 0)
+		(at 39.37 63.5 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5442,25 +5442,25 @@
 		(fields_autoplaced yes)
 		(uuid "153d04e0-22f0-4a72-866c-f115b50a44ba")
 		(property "Reference" "C15"
-			(at 43.18 61.3409 0)
+			(at 43.18 63.1189 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100uF"
-			(at 43.18 63.8809 0)
+			(at 43.18 65.6589 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
-			(at 40.3352 67.31 0)
+			(at 38.4048 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +5773,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 71.12 62.23 0)
+		(at 71.12 62.23 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5782,25 +5782,25 @@
 		(fields_autoplaced yes)
 		(uuid "303a0763-aaf8-4647-b211-9f409b6e187e")
 		(property "Reference" "C16"
-			(at 74.93 60.0709 0)
+			(at 74.93 61.8489 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100uF"
-			(at 74.93 62.6109 0)
+			(at 74.93 64.3889 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
-			(at 72.0852 66.04 0)
+			(at 70.1548 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
