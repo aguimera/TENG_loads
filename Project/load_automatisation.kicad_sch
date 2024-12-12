@@ -4997,7 +4997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HDRV10W66P254_2X5_1270X500X895P"
+		(property "Footprint" "SamacSys_Parts:HDRV10W66P254_2X5_1270X500X895P"
 			(at 162.56 225.73 0)
 			(effects
 				(font
@@ -5163,7 +5163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SHDRRA12W103P0X508_1X12_6296X1200X875P"
+		(property "Footprint" "SamacSys_Parts:SHDRRA12W103P0X508_1X12_6296X1200X875P"
 			(at 67.31 182.55 0)
 			(effects
 				(font
@@ -6137,7 +6137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P280X145-5N"
+		(property "Footprint" "SamacSys_Parts:SOT95P280X145-5N"
 			(at 213.36 176.2 0)
 			(effects
 				(font
@@ -7371,7 +7371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1757242"
+		(property "Footprint" "SamacSys_Parts:1757242"
 			(at 57.15 224.46 0)
 			(effects
 				(font
@@ -8667,7 +8667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-8N"
 			(at 120.65 186.36 0)
 			(effects
 				(font

@@ -3556,7 +3556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P1030X245-18N"
+		(property "Footprint" "SamacSys_Parts:SOIC127P1030X245-18N"
 			(at 167.64 129.21 0)
 			(effects
 				(font
@@ -4078,7 +4078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P1030X245-18N"
+		(property "Footprint" "SamacSys_Parts:SOIC127P1030X245-18N"
 			(at 120.65 129.21 0)
 			(effects
 				(font
