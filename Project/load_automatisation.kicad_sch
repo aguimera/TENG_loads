@@ -2931,6 +2931,22 @@
 		(color 0 0 0 0)
 		(uuid "f1c5a1ba-fd4f-4ad6-a3ce-ef5aaf1097eb")
 	)
+	(no_connect
+		(at 45.72 171.45)
+		(uuid "14084cc7-aaba-4024-8052-1aa6b578b108")
+	)
+	(no_connect
+		(at 45.72 163.83)
+		(uuid "40fca63c-8fea-4707-aeab-6b45bb381d5d")
+	)
+	(no_connect
+		(at 45.72 166.37)
+		(uuid "453e31dc-6d53-4503-8c0e-6b7c5d79cc3c")
+	)
+	(no_connect
+		(at 45.72 168.91)
+		(uuid "8458f5ce-afa2-471a-9576-4fdfb7caffa3")
+	)
 	(wire
 		(pts
 			(xy 39.37 67.31) (xy 39.37 68.58)
@@ -3060,6 +3076,16 @@
 			(type default)
 		)
 		(uuid "0f2de49f-1cb4-416f-98e0-d2657527ab3e")
+	)
+	(wire
+		(pts
+			(xy 45.72 163.83) (xy 40.64 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1010cb1f-6f1f-42f1-bbdc-5c9f57fa1cf0")
 	)
 	(wire
 		(pts
@@ -3403,6 +3429,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 166.37) (xy 40.64 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "522907db-6817-4fd6-be97-61e1615493f9")
+	)
+	(wire
+		(pts
 			(xy 135.89 130.81) (xy 143.51 130.81)
 		)
 		(stroke
@@ -3480,6 +3516,16 @@
 			(type default)
 		)
 		(uuid "6254ff39-b21c-4a1f-8808-74861b0488e2")
+	)
+	(wire
+		(pts
+			(xy 45.72 168.91) (xy 40.64 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64334496-351b-4821-97b6-cb9d20e837e8")
 	)
 	(wire
 		(pts
@@ -4250,6 +4296,16 @@
 			(type default)
 		)
 		(uuid "f8b3d7ee-b806-44ab-9f2c-ae0d832308a2")
+	)
+	(wire
+		(pts
+			(xy 45.72 171.45) (xy 40.64 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc415a2d-bd10-4e4e-835e-8ea7c87636f1")
 	)
 	(wire
 		(pts
@@ -6458,6 +6514,80 @@
 			(project "load_automatisation"
 				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 35.56 166.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4efa5f62-f6d2-41ad-92cf-0ca13a176f19")
+		(property "Reference" "TENG_Connector2"
+			(at 36.195 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 36.195 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 35.56 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 35.56 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 35.56 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "20357d98-957b-487b-9413-3d2ce6909dd8")
+		)
+		(pin "1"
+			(uuid "90bbb78a-a1bc-4691-82ff-6c18dde59ee3")
+		)
+		(pin "4"
+			(uuid "dbee63cc-5bbe-4b41-bfcb-d13caa574925")
+		)
+		(pin "2"
+			(uuid "b0a6e210-352c-4a6e-a084-8a3703d7fb49")
+		)
+		(instances
+			(project "load_automatisation"
+				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9"
+					(reference "TENG_Connector2")
 					(unit 1)
 				)
 			)
